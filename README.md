@@ -1,5 +1,1 @@
-- My name is Alvin and I'm a beginner programmer.
-- My hobbies include video games, music and technology.
-- I'm currently learning Python and Javascript.
-- Currently not looking for any collaborations.
-- You can reach me on my email.
+Only one thing to say.... We're all gonna make it brah
